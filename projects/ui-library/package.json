@@ -1,5 +1,5 @@
 {
-  "name": "@testowner/UI-Library",
+  "name": "@mail2prav11/UI-Library",
   "version": "0.0.1",
   "peerDependencies": {
     "@angular/common": "^8.2.14",
@@ -10,6 +10,6 @@
   },
   "repository" : {
     "type" : "git",
-    "url": "git://github.com/testowner/UI-Library.git"
+    "url": "git://github.com/mail2prav11/UI-Library.git"
   }
 }
